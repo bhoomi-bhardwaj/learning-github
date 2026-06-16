@@ -1,4 +1,4 @@
 # learning-github
-Author - Bhoomi Bhardwaj
+Author - Bhoomi (Learner)
 <br>
 This is my first Git Repository
